@@ -80,5 +80,5 @@ Feel free to fork and contribute! Submit a PR with new features or fixes.
 This project is open-source and available under the **MIT License**.
 
 ---
-💡 **Want to collaborate?** Reach out via email at `your@email.com` 🚀
+💡 **Want to collaborate?** Reach out via email at `riteshkumar555sah@gmail.com` 🚀
 
